@@ -8,7 +8,7 @@
 # Ambiente
 * Tener configurado java, mvn, y eclipse.
 * Descargar el proyecto de github.
-* Descomprimir el proyecto "callcenter-master.zip" en el workspace y dejarlo con el nombre de "callcenter"
+* Descomprimir el proyecto "callcenterALM-master.zip" en el workspace y dejarlo con el nombre de "callcenter"
 
 #### Desde eclipse importar el proyecto como "Existing Maven Projects"
 ##### De ser necesario se puede Correr por consola (siempre estando parado dentro del proyecto):
@@ -66,4 +66,4 @@ testPriorizacionDeEmpleados: lleva a cabo la validacion de la prioridad en el or
 
 ##### Diagrama
 
-![alt text](https://github.com/marcelomr7/callcenter/raw/master/src/main/resources/Class.png)
+![alt text](https://github.com/marcelomr7/callcenterALM/raw/master/src/main/resources/Class.png)
